@@ -80,7 +80,6 @@ I see programming as a creative tool — a way to model ideas, test possibilitie
 
 ## 📈 GitHub Stats  
 
-![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitainfo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitainfo&layout=compact&theme=tokyonight)
 
 ---
