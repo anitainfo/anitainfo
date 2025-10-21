@@ -59,11 +59,23 @@ I see programming as a creative tool — a way to model ideas, test possibilitie
 
 ---
 
-## 🚀 Featured Projects
-- **Spring Movies API** — REST API with Spring Boot + JPA, filtering, validation, tests.  
-  `java · spring-boot · jpa · postgres · rest · http-client`
-- **Algorithms & Data Structures** — competitive programming/OBI solutions with complexity notes.  
-  `c++ · algorithms`
+### 🚀 **Featured Projects**
+
+**Screenmatch – Spring Boot API** — API REST para cadastro e consumo de séries (Alura).  
+`java` · `spring-boot` · `jpa` · `postgres` · `rest` · `api`
+
+**MC322 – Programação Orientada a Objetos** — Projetos e laboratórios da disciplina MC322 (Unicamp), com foco em herança, polimorfismo e abstração.  
+`java` · `oop` · `university` · `unicamp`
+
+**Robô Autônomo de Sumô** — Sistema embarcado para robô de combate com sensores analógicos e lógica autônoma de movimentação.  
+`c++` · `embedded` · `robotics` · `esp32` · `iot`
+
+**MC202 – Estruturas de Dados** — Implementações em C de listas, pilhas, filas, árvores e grafos.  
+`c` · `data-structures` · `algorithms` · `university` · `unicamp`
+
+**Programação Competitiva – Neps Academy** — Códigos e soluções de cursos e trilhas de programação competitiva do Neps Academy.  
+`c++` · `competitive-programming` · `neps-academy` · `algorithms`
+
 ---
 
 ## 📈 GitHub Stats  
