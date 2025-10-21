@@ -82,9 +82,21 @@ Arduino · ESP32 · Sensors · C/C++
 ![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitainfo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitainfo&layout=compact&theme=tokyonight)
 
+
+
 ## 📈 GitHub Stats
-![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitainfo&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitainfo&layout=compact)
+
+![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitainfo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anitainfo&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+
+---
+
+![Anita's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anitainfo&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anitainfo&theme=tokyonight)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anitainfo&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anitainfo&theme=tokyonight)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anitainfo&theme=tokyonight&utcOffset=3)
+
 
 ---
 
