@@ -1,7 +1,9 @@
 # Hey there, I'm Anita Almeida 👋
 
 💻 Software Developer
+
 🎓 Computer Engineering student at UNICAMP
+
 🤖 Interested in Backend, AI (OpenAI), Robotics/Embedded, OS, and HCI
 
 ---
